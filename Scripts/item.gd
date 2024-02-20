@@ -1,10 +1,17 @@
 extends Node2D
 
 var item = ""
+var amount = 1
 
 func SetItem(itemName):
 	$Sprite2D.texture = load('res://Assets/Air Dungeon/Items/%s.png' % itemName)
 	item = itemName
+	
+func get_item():
+	return item
+	
+func get_amount():
+	return amount
 	
 func _input(event):
 	if event.is_action_pressed("interact"):

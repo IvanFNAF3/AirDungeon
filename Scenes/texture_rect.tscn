@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4h76wu0hm8p4"]
+
+[ext_resource type="Texture2D" uid="uid://ywcwmhbe0u1a" path="res://Assets/Air Dungeon/Items/Bone.png" id="1_8cde2"]
+
+[node name="TextureRect" type="TextureRect"]
+offset_right = 141.0
+offset_bottom = 143.0
+texture = ExtResource("1_8cde2")

@@ -1,13 +1,18 @@
 extends CharacterBody2D
 
-@export var  speed = 1
-var items = 0
 @onready var anim = $AnimatedSprite2D
 var direction = Vector2.ZERO
 
+@export var  speed = 1
+var items = 0
+var inventory = {}
+
 func pick(item):
-	items += 1
-	get_parent().update_label(items)
+	var it = item.get_name()
+	if it in inventory.keys():
+		inventory[it] += it.get_amount()
+	else:
+		inventory[it] = it.get_amount()
 
 func movement():
 	velocity = Vector2.ZERO
