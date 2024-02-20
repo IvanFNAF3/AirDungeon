@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://bjn5p3adlx1em"]
+
+[ext_resource type="Script" path="res://Elements/Item/item.gd" id="1_2yk0y"]
+[ext_resource type="Texture2D" uid="uid://bjbnktgiw1bt0" path="res://Assets/Air Dungeon/StartGirl.png" id="1_yjr4v"]
+
+[node name="Item" type="Node2D"]
+script = ExtResource("1_2yk0y")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = 3
+texture = ExtResource("1_yjr4v")
+centered = false

@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=3 uid="uid://bppw5oui8l8ew"]
+
+[ext_resource type="Texture2D" uid="uid://b41482qngybr" path="res://Assets/Air Dungeon/plashka.png" id="1_7nt4q"]
+
+[node name="UI" type="CanvasLayer"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 904.0
+offset_bottom = 240.0
+
+[node name="NinePatchRect" type="NinePatchRect" parent="Control"]
+layout_mode = 0
+offset_right = 560.0
+offset_bottom = 227.0
+texture = ExtResource("1_7nt4q")
+
+[node name="Counter" type="Label" parent="Control"]
+layout_mode = 0
+offset_left = 25.0
+offset_top = 26.0
+offset_right = 430.0
+offset_bottom = 77.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 25
+text = "Items: "
+vertical_alignment = 1
