@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mybo6kjg2mc3"
-path="res://.godot/imported/CharacterLeft_1.png-45a070f1d5d4e7d978706afdc06a2414.ctex"
+path="res://.godot/imported/CharacterLeft_1.png-ff353b9a75eb88f6a4164fd9eb2bb1bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/CharacterLeft_1.png"
-dest_files=["res://.godot/imported/CharacterLeft_1.png-45a070f1d5d4e7d978706afdc06a2414.ctex"]
+source_file="res://Assets/CharacterLeft_1.png"
+dest_files=["res://.godot/imported/CharacterLeft_1.png-ff353b9a75eb88f6a4164fd9eb2bb1bc.ctex"]
 
 [params]
 

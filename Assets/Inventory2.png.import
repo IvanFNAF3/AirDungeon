@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cslinqn1yd7of"
-path="res://.godot/imported/Inventory2.png-8d72770fcafc7189aaea78709bbaf1aa.ctex"
+path="res://.godot/imported/Inventory2.png-bad2c7351817d23e5fa1f8ca618a5801.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Inventory2.png"
-dest_files=["res://.godot/imported/Inventory2.png-8d72770fcafc7189aaea78709bbaf1aa.ctex"]
+source_file="res://Assets/Inventory2.png"
+dest_files=["res://.godot/imported/Inventory2.png-bad2c7351817d23e5fa1f8ca618a5801.ctex"]
 
 [params]
 

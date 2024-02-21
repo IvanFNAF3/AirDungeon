@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://gdj413u63ae8"]
 
-[ext_resource type="Texture2D" uid="uid://cjdlyqymc0sft" path="res://Assets/Air Dungeon/tree.png" id="1_wacrv"]
+[ext_resource type="Texture2D" uid="uid://cjdlyqymc0sft" path="res://Assets/tree.png" id="1_wacrv"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_tqk5u"]
 size = Vector2(275, 216)

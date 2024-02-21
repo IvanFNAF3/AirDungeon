@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4lqhvrxqec1p"
-path="res://.godot/imported/Cactus.png-fd065aba25bef11fc9eee85ef63ff527.ctex"
+path="res://.godot/imported/Cactus.png-156934f98890382f7745b31638c03440.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Items/Cactus.png"
-dest_files=["res://.godot/imported/Cactus.png-fd065aba25bef11fc9eee85ef63ff527.ctex"]
+source_file="res://Assets/Items/Cactus.png"
+dest_files=["res://.godot/imported/Cactus.png-156934f98890382f7745b31638c03440.ctex"]
 
 [params]
 

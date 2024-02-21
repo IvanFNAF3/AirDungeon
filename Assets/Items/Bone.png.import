@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ywcwmhbe0u1a"
-path="res://.godot/imported/Bone.png-c974f2dc9651445aae83b3c82b805c49.ctex"
+path="res://.godot/imported/Bone.png-4b60b433f3434bc795a7d62308392d0e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Items/Bone.png"
-dest_files=["res://.godot/imported/Bone.png-c974f2dc9651445aae83b3c82b805c49.ctex"]
+source_file="res://Assets/Items/Bone.png"
+dest_files=["res://.godot/imported/Bone.png-4b60b433f3434bc795a7d62308392d0e.ctex"]
 
 [params]
 

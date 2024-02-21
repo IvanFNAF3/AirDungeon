@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm8soa2wmkpnw"
-path="res://.godot/imported/Meat.png-7f8bdbc86b8bd059ffc5a6f6be94ea1c.ctex"
+path="res://.godot/imported/Meat.png-a057c75678402f16b15419c3fba2f125.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Items/Meat.png"
-dest_files=["res://.godot/imported/Meat.png-7f8bdbc86b8bd059ffc5a6f6be94ea1c.ctex"]
+source_file="res://Assets/Items/Meat.png"
+dest_files=["res://.godot/imported/Meat.png-a057c75678402f16b15419c3fba2f125.ctex"]
 
 [params]
 

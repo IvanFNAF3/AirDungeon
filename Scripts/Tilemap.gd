@@ -1,6 +1,6 @@
 extends Node2D
 
-@onready var item = preload("res://Elements/Item/item.tscn")
+@onready var item = preload("res://Scenes/item.tscn")
 
 func _ready():
 	var items = ['Berries', 'Branch', 'Cactus', 'Meat', 'Bone', 'Wood', 'CraftedWood']

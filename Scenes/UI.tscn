@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bppw5oui8l8ew"]
 
-[ext_resource type="Texture2D" uid="uid://b41482qngybr" path="res://Assets/Air Dungeon/plashka.png" id="1_7nt4q"]
+[ext_resource type="Texture2D" uid="uid://b41482qngybr" path="res://Assets/plashka.png" id="1_7nt4q"]
 
 [node name="UI" type="CanvasLayer"]
 

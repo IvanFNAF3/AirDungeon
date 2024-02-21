@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvhomgqhw78wv"
-path="res://.godot/imported/Wood.png-6d604270e0256e4663fadf3503887277.ctex"
+path="res://.godot/imported/Wood.png-983dbaeced97f209cb76bb826a90213c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Items/Wood.png"
-dest_files=["res://.godot/imported/Wood.png-6d604270e0256e4663fadf3503887277.ctex"]
+source_file="res://Assets/Items/Wood.png"
+dest_files=["res://.godot/imported/Wood.png-983dbaeced97f209cb76bb826a90213c.ctex"]
 
 [params]
 

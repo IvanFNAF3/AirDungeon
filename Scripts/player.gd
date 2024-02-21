@@ -8,7 +8,7 @@ var items = 0
 var inventory = {}
 
 func pick(item):
-	var it = item.get_name()
+	var it = item.get_item()
 	if it in inventory.keys():
 		inventory[it] += it.get_amount()
 	else:

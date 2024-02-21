@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vfxtji6cotxx"
-path="res://.godot/imported/Tileset3.png-3020d4cded9412dcf12a23cc6f575ceb.ctex"
+path="res://.godot/imported/Tileset3.png-3aa115a0bbb7efb9b4f9836ebc8a31c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/Tileset3.png"
-dest_files=["res://.godot/imported/Tileset3.png-3020d4cded9412dcf12a23cc6f575ceb.ctex"]
+source_file="res://Assets/Tileset3.png"
+dest_files=["res://.godot/imported/Tileset3.png-3aa115a0bbb7efb9b4f9836ebc8a31c9.ctex"]
 
 [params]
 

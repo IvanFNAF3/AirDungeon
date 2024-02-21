@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b41482qngybr"
-path="res://.godot/imported/plashka.png-fdf65407963400e69b9c77ac89c5cd89.ctex"
+path="res://.godot/imported/plashka.png-21001c411e4731119fc98eb1a504c02c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Air Dungeon/plashka.png"
-dest_files=["res://.godot/imported/plashka.png-fdf65407963400e69b9c77ac89c5cd89.ctex"]
+source_file="res://Assets/plashka.png"
+dest_files=["res://.godot/imported/plashka.png-21001c411e4731119fc98eb1a504c02c.ctex"]
 
 [params]
 

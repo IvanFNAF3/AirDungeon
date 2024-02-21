@@ -4,7 +4,7 @@ var item = ""
 var amount = 1
 
 func SetItem(itemName):
-	$Sprite2D.texture = load('res://Assets/Air Dungeon/Items/%s.png' % itemName)
+	$Sprite2D.texture = load('res://Assets/Items/%s.png' % itemName)
 	item = itemName
 	
 func get_item():

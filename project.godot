@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Air Dungeon"
-run/main_scene="res://Game/root.tscn"
+run/main_scene="res://Scenes/root.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 boot_splash/bg_color=Color(0.278431, 0.317647, 0.823529, 1)
 boot_splash/show_image=false
