@@ -1,17 +1,19 @@
-[gd_scene load_steps=2 format=3 uid="uid://c4h76wu0hm8p4"]
+[gd_scene load_steps=3 format=3 uid="uid://c4h76wu0hm8p4"]
 
 [ext_resource type="Texture2D" uid="uid://ywcwmhbe0u1a" path="res://Assets/Items/Bone.png" id="1_8cde2"]
+[ext_resource type="Script" path="res://Scripts/inventItem.gd" id="2_7iep7"]
 
 [node name="InventItem" type="TextureRect"]
 offset_right = 100.0
 offset_bottom = 100.0
 texture = ExtResource("1_8cde2")
+script = ExtResource("2_7iep7")
 
 [node name="Amount" type="Label" parent="."]
 layout_mode = 0
 offset_left = 68.0
 offset_top = 57.0
-offset_right = 92.0
+offset_right = 82.0
 offset_bottom = 91.0
 theme_override_font_sizes/font_size = 24
 text = "1"
